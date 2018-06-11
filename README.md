@@ -1,4 +1,4 @@
-# A3-Agenda Delphi Procedural
+# A3-Agenda Delphi 
 
 Esta aplicação é uma agenda para a organização e o gerenciamento de contatos
 
